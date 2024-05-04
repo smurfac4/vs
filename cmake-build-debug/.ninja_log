@@ -1,0 +1,20 @@
+# ninja log v5
+4	318	1714504634806305533	CMakeFiles/untitled1.dir/main.cpp.o	2e6f95cc751336c
+318	358	1714504634846812934	untitled1	a939308a53983672
+1	347	1714833992754265396	CMakeFiles/untitled1.dir/Employee.cpp.o	4b958a1e30801713
+1	349	1714833992753868148	CMakeFiles/untitled1.dir/Engineer.cpp.o	8d6dac1a5d6720e9
+1	352	1714833992759616318	CMakeFiles/untitled1.dir/Manager.cpp.o	325ff34ce64f4256
+2	358	1714833992766551689	CMakeFiles/untitled1.dir/main.cpp.o	2e6f95cc751336c
+1	372	1714833992780291972	CMakeFiles/untitled1.dir/EmployeeDatabase.cpp.o	31b8e189cc32489e
+372	407	1714833992816108608	untitled1	1aebdd9937237169
+5	274	1714834093365698369	CMakeFiles/untitled1.dir/main.cpp.o	2e6f95cc751336c
+275	309	1714834093401470839	untitled1	1aebdd9937237169
+5	376	1714834329017744584	CMakeFiles/untitled1.dir/main.cpp.o	2e6f95cc751336c
+5	381	1714834329023092776	CMakeFiles/untitled1.dir/EmployeeDatabase.cpp.o	31b8e189cc32489e
+9	354	1714834711553059967	CMakeFiles/untitled1.dir/EmployeeDatabase.cpp.o	31b8e189cc32489e
+6	415	1714834862714414455	CMakeFiles/untitled1.dir/main.cpp.o	2e6f95cc751336c
+5	415	1714834862715174751	CMakeFiles/untitled1.dir/Manager.cpp.o	325ff34ce64f4256
+6	416	1714834862715153042	CMakeFiles/untitled1.dir/Engineer.cpp.o	8d6dac1a5d6720e9
+6	426	1714834862726381805	CMakeFiles/untitled1.dir/EmployeeDatabase.cpp.o	31b8e189cc32489e
+5	428	1714834862729404778	CMakeFiles/untitled1.dir/Employee.cpp.o	4b958a1e30801713
+428	462	1714834862764397529	untitled1	1aebdd9937237169
