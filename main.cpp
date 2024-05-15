@@ -9,10 +9,10 @@ int main() {
     EmployeeDatabase employeeDB;
 
     // Создаем несколько сотрудников разных типов
-    Manager manager1("Alice", 1001, "Marketing");
-    Manager manager2("Bob", 1002, "Sales");
-    Engineer engineer1("Charlie", 2001, "Software");
-    Engineer engineer2("David", 2002, "Hardware");
+    Manager manager1("Алиса", 1001, "Маркетинг");
+    Manager manager2("Боб", 1002, "Продажи");
+    Engineer engineer1("Чарли", 2001, "Программное обеспечение");
+    Engineer engineer2("Дэвид", 2002, "Аппаратное обеспечение");
 
     // Добавляем сотрудников в базу данных
     employeeDB.addEmployee(&manager1);

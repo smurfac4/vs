@@ -7,7 +7,7 @@ class Manager : public Employee {
 public:
     Manager(const std::string& name, int id, const std::string& department);
 
-    void printDetails() const;
+    void printDetails() const override;
 
 private:
     std::string department;

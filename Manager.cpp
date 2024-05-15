@@ -1,4 +1,5 @@
 #include "Manager.h"
+#include <iostream>
 
 Manager::Manager(const std::string& name, int id, const std::string& department)
         : Employee(name, id), department(department) {}

@@ -10,7 +10,7 @@ public:
     Project(const std::string& name, int hoursWorked) : name(name), hoursWorked(hoursWorked) {}
 
     void printDetails() const {
-        std::cout << "Project Name: " << name << ", Hours Worked: " << hoursWorked << std::endl;
+        std::cout << "Название проекта: " << name << ", Затраченные часы: " << hoursWorked << std::endl;
     }
 
 private:
@@ -22,15 +22,13 @@ class Employee {
 public:
     Employee(const std::string& name, int id);
 
-    void addProject(const std::string& projectName, int hoursWorked);
-
-    void printProjects() const;
+    virtual void printDetails() const;
 
     std::string getName() const { return name; }
 
     int getId() const { return id; }
 
-private:
+protected:
     std::string name;
     int id;
     std::vector<Project> projects;

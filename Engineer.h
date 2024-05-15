@@ -7,7 +7,7 @@ class Engineer : public Employee {
 public:
     Engineer(const std::string& name, int id, const std::string& specialization);
 
-    void printDetails() const;
+    void printDetails() const override;
 
 private:
     std::string specialization;
